@@ -16,5 +16,9 @@
   },
   "devDependencies": {
     "fs": "0.0.1-security"
+  },
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/jcarlos0305/static-site-builder.git"
   }
 }
